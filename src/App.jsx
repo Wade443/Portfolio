@@ -1,7 +1,7 @@
 import Nav from './components/Nav'
-import Hero from './components/Hero'
-import Gallery from './components/Gallery'
+import Videos from './components/Videos'
 import About from './components/About'
+import Gallery from './components/Gallery'
 import Contact from './components/Contact'
 import './App.css'
 
@@ -9,9 +9,9 @@ function App() {
   return (
     <>
       <Nav />
-      <Hero />
-      <Gallery />
+      <Videos />
       <About />
+      <Gallery />
       <Contact />
     </>
   )

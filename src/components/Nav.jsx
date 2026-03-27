@@ -11,7 +11,7 @@ export default function Nav() {
   }, [])
 
   const links = [
-    { label: 'Work', href: '#gallery' },
+    { label: 'Work', href: '#videos' },
     { label: 'About', href: '#about' },
     { label: 'Contact', href: '#contact' },
   ]
